@@ -1,5 +1,4 @@
 # Hello, I'm ```Dragjon```! 👋
-## Visitors: 
 ![](https://komarev.com/ghpvc/?username=Dragjon)
 ## About Me
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
