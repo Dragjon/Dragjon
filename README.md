@@ -1,5 +1,5 @@
 # Hello, I'm ```Dragjon```! 👋
-![](https://komarev.com/ghpvc/?username=Dragjon)
+![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon)
 ## About Me
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 ## 💼 Currently
