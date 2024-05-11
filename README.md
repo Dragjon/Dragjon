@@ -1,2 +1,44 @@
-# Dragjon
- 
+# Hello, I'm ```Dragjon```! 👋
+
+## About Me
+I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
+## 💼 Currently
+- Working as a ```student``` at ```BPGHs```
+- Improving my chess engine <a href="https://github.com/Dragjon/Throttle">Throttle</a> and trying to make it stronger.
+- Learning more the structure of NNUE/Neural networks for evaluating chess positions.
+
+Sure, here's a refined version:
+
+## 🔧 Technologies & Tools
+
+### **Languages**
+- Python (90%)
+- HTML/CSS (85%)
+- C# (70%)
+- JavaScript (70%)
+- C (20%)
+- C++ (10%)
+- Go (5%)
+
+### **Frameworks & Libraries**
+- Python-chess
+- NumPy
+
+### **Tools**
+- Visual Studio 2022
+- VS Code
+
+## 🌱 Learning & Development
+- Currently diving deep into chess evaluation tuning
+- Always seeking new challenges to expand my skill set
+
+## ⭐ Fun Facts
+### **Hobbies**: 
+- Programming
+- Chess
+- Math
+
+### **General facts**
+- 67% of programming jobs aren’t in the technology industry.
+- The first computer virus was created by a 15-year-old in 1982.
+Thanks for stopping by! 😊
