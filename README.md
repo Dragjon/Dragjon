@@ -41,5 +41,3 @@ Sure, here's a refined version:
 ### **General facts**
 - 67% of programming jobs aren’t in the technology industry.
 - The first computer virus was created by a 15-year-old in 1982.
-
-# Thanks for stopping by! 😊
