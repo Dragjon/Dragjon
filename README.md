@@ -1,6 +1,6 @@
 # Hello, I'm ```Dragjon```! 👋
 ## Visitors: 
-![Visitor Count](https://profile-counter.glitch.me/Dragjon/count.svg)
+![](https://komarev.com/ghpvc/?username=Dragjon)
 ## About Me
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 ## 💼 Currently
