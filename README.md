@@ -7,8 +7,6 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - Improving my chess engine <a href="https://github.com/Dragjon/Throttle">Throttle</a> and trying to make it stronger.
 - Learning more about the structure of NNUE/Neural networks for evaluating chess positions.
 
-Sure, here's a refined version:
-
 ## 🔧 Technologies & Tools
 
 ### **Languages**
