@@ -10,7 +10,7 @@ I'm a software developer developing nothing other than insanity...And a few ches
 ## 🔧 Technologies & Tools
 
 ### **Languages**
-- Python (90%)
+- [![](https://img.shields.io/badge/Python-90%-brightgreen)]
 - HTML/CSS (85%)
 - C# (70%)
 - JavaScript (70%)
