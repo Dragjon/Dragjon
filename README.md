@@ -1,5 +1,5 @@
 # Hello, I'm ```Dragjon```! 👋
-![Visitor Count](https://profile-counter.glitch.me/Dragjon/count.svg)
+Visitors: ![Visitor Count](https://profile-counter.glitch.me/Dragjon/count.svg)
 ## About Me
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 ## 💼 Currently
