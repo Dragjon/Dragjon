@@ -13,8 +13,8 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - Python (90%)
 - HTML/CSS (85%)
 - C# (70%)
+- C++ (60%)
 - JavaScript (50%)
-- C++ (50%)
 - C (20%)
 - Go (5%)
 
