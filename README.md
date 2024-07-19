@@ -14,9 +14,9 @@ I'm a software developer developing nothing other than insanity...And a few ches
 ### **Languages**
 - ![Python](https://progress-bar.dev/90?title=Python)
 - ![HTML/CSS](https://progress-bar.dev/85?title=HTML/CSS)
+- ![JavaScript](https://progress-bar.dev/75?title=JavaScript)
 - ![C#](https://progress-bar.dev/70?title=C#)
-- ![C++](https://progress-bar.dev/60?title=CPP)
-- ![JavaScript](https://progress-bar.dev/50?title=JavaScript)
+- ![C++](https://progress-bar.dev/55?title=CPP)
 - ![C](https://progress-bar.dev/20?title=C)
 - ![Go](https://progress-bar.dev/5?title=Go)
 
