@@ -1,3 +1,5 @@
+Here is your profile with added progress bars showing percentages for languages:
+
 # Hello, I'm ```Dragjon```! 👋
 ![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon)
 ## About Me
@@ -10,13 +12,13 @@ I'm a software developer developing nothing other than insanity...And a few ches
 ## 🔧 Technologies & Tools
 
 ### **Languages**
-- Python (90%)
-- HTML/CSS (85%)
-- C# (70%)
-- C++ (60%)
-- JavaScript (50%)
-- C (20%)
-- Go (5%)
+- ![Python](https://progress-bar.dev/90?title=Python)
+- ![HTML/CSS](https://progress-bar.dev/85?title=HTML/CSS)
+- ![C#](https://progress-bar.dev/70?title=C#)
+- ![C++](https://progress-bar.dev/60?title=C++)
+- ![JavaScript](https://progress-bar.dev/50?title=JavaScript)
+- ![C](https://progress-bar.dev/20?title=C)
+- ![Go](https://progress-bar.dev/5?title=Go)
 
 ### **Frameworks & Libraries**
 - Python-chess
