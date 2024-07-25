@@ -1,4 +1,4 @@
-# Hello, I'm ```Dragjon```! 👋
+# Hello, I'm ```Dragjon``` 👋
 ![Dragjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragjon&show_icons=true&theme=transparent)
 ## About Me
 ![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon) ![Static Badge](https://img.shields.io/badge/Brain-Damaged-red)<br>
