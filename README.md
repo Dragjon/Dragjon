@@ -13,7 +13,7 @@ I'm a software developer developing nothing other than insanity...And a few ches
 ## 🔧 Technologies & Tools
 
 ### **Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragjon&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragjon&layout=pie&theme=tokyonight)](https://github.com/Dragjon/github-readme-stats)
 
 ### **Frameworks & Libraries**
 - Python-chess
