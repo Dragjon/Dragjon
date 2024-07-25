@@ -16,10 +16,14 @@ I'm a software developer developing nothing other than insanity...And a few ches
 
 ### **Frameworks & Libraries**
 - Python-chess
+- Tensorflow
+- Torch
+- Pandas
 - NumPy
 
 ### **Tools**
 - Visual Studio 2022
+- Code Blocks
 - VS Code
 
 ## 🌱 Learning & Development
