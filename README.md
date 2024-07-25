@@ -1,6 +1,7 @@
 # Hello, I'm ```Dragjon```! 👋
-![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon) ![Static Badge](https://img.shields.io/badge/Brain-Damaged-red)
+![Dragjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragjon&show_icons=true&theme=radical)
 ## About Me
+![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon) ![Static Badge](https://img.shields.io/badge/Brain-Damaged-red)<br>
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 ## 💼 Currently
 - Working as a ```student``` at ```BPGHS```
