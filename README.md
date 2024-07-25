@@ -1,5 +1,3 @@
-Here is your profile with added progress bars showing percentages for languages:
-
 # Hello, I'm ```Dragjon```! 👋
 ![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon)
 ## About Me
