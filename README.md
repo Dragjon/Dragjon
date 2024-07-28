@@ -8,6 +8,7 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - Improving my chess engine <a href="https://github.com/Dragjon/Polonium">Polonium</a> and trying to make it stronger.
 - Improving my python chess engine <a href="https://github.com/Dragjon/Imperial">Imperial</a> and trying to make it stronger.
 - Learning more about the structure of NNUE/Neural networks for evaluating chess positions.
+- Working on my neural networks chess engine <a href="https://github.com/Dragjon/Nectar">Nectar</a>.
 
 ## 🔧 Technologies & Tools
 
