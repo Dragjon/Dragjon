@@ -5,9 +5,6 @@
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 ## 💼 Currently
 - Working as a ```student``` at ```BPGHS```
-- Improving my chess engine <a href="https://github.com/Dragjon/Polonium">Polonium</a> and trying to make it stronger.
-- Improving my python chess engine <a href="https://github.com/Dragjon/Imperial">Imperial</a> and trying to make it stronger.
-- Learning more about the structure of NNUE/Neural networks for evaluating chess positions.
 - Working on my neural networks chess engine <a href="https://github.com/Dragjon/Nectar">Nectar</a>.
 
 ## 🔧 Technologies & Tools
@@ -28,7 +25,7 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - VS Code
 
 ## 🌱 Learning & Development
-- Currently diving deep into chess evaluation tuning
+- Currently diving deep into chess programming
 - Always seeking new challenges to expand my skill set
 
 ## ⭐ Fun Facts
@@ -36,6 +33,7 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - Programming
 - Chess
 - Math
+- Physics
 
 ### **General facts**
 - 67% of programming jobs aren’t in the technology industry.
