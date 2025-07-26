@@ -5,7 +5,7 @@
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 ## 💼 Currently
 - Working as a ```student``` at ```BPGHS```
-- Working on my neural networks chess engine <a href="https://github.com/Dragjon/Nectar">Nectar</a>.
+- Working on my chess engine <a href="https://github.com/Dragjon/weak-chess-engine">Weak</a>.
 
 ## 🔧 Technologies & Tools
 
