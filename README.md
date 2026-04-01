@@ -5,8 +5,10 @@
 ## About Me
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Dragjon&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Dragjon&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dragjon&show_icons=true&theme=radical" width="48%" style="margin-right: 2%;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dragjon&theme=radical" width="48%" />
+</div>
 
 ## 💼 Currently
 - Working as a ```student``` at ```BPGHS```
