@@ -6,8 +6,12 @@
 I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dragjon&show_icons=true&theme=radical" width="48%" style="margin-right: 2%;" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dragjon&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dragjon&show_icons=true&theme=radical" width="45%" style="margin-right: 2%;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dragjon&theme=radical" width="47.5%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dragjon&layout=compact&theme=radical" width="33%" style="margin-right: 2%;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dragjon&repo=weak-chess-engine&theme=radical" width="59.5%">
 </div>
 
 ## 💼 Currently
@@ -15,9 +19,6 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - Working on my chess engine <a href="https://github.com/Dragjon/weak-chess-engine">Weak</a>.
 
 ## 🔧 Technologies & Tools
-
-### **Languages**
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dragjon&layout=compact&theme=radical)
 
 ### **Frameworks & Libraries**
 - Python-chess
