@@ -3,7 +3,7 @@
 
 
 ## About Me
-I'm a software developer developing nothing other than insanity...And a few chess engines/chess-related solutions along the way. 
+I'm a software developer developing nothing much other than insanity... And a few chess engines/chess-related solutions along the way. 
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Dragjon&show_icons=true&theme=radical" width="45%" style="margin-right: 2%;" />
@@ -41,7 +41,7 @@ I'm a software developer developing nothing other than insanity...And a few ches
 - Programming
 - Chess
 - Math
-- Physics
+- Photography 
 
 ### **General facts**
 - 67% of programming jobs aren’t in the technology industry.
