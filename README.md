@@ -1,48 +1,41 @@
-# Hello, I'm ```Dragjon``` 👋
-![](https://komarev.com/ghpvc/?username=Dragjon) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/Dragjon) ![Static Badge](https://img.shields.io/badge/Brain-Damaged-red)<br>
+# Hello, I'm ```Ethan``` 👋
+![](https://komarev.com/ghpvc/?username=Dragjon) [![](https://img.shields.io/badge/Olevels-Cooked-brightgreen)](https://github.com/Dragjon)  ![Static Badge](https://img.shields.io/badge/Brain-Damaged-red) ![](https://img.shields.io/badge/Average%20Sleep-0-orange)<br>
 
 
 ## About Me
-I'm a software developer developing nothing much other than insanity... And a few chess engines/chess-related solutions along the way. 
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dragjon&show_icons=true&theme=radical" width="45%" style="margin-right: 2%;" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dragjon&theme=radical" width="47.5%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dragjon&layout=compact&theme=radical" width="33%" style="margin-right: 2%;">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dragjon&repo=weak-chess-engine&theme=radical" width="59.5%">
-</div>
+I'm a software developer developing nothing much other than insanity! And a few random programming solutions along the way. Welcome to my GitHub Repo which is basically mostly a cemetery of unfinished and half-baked projects with some occasional useful stuff. I also sometimes do photography and play chess besides programming.
 
 ## 💼 Currently
-- Working as a ```student``` at ```BPGHS```
-- Working on my chess engine <a href="https://github.com/Dragjon/weak-chess-engine">Weak</a>.
+- Either working as a ```student``` at ```BPGHS```
+- hibernating
+- or playing chess
 
 ## 🔧 Technologies & Tools
 
-### **Frameworks & Libraries**
-- Python-chess
+### **Frameworks & Libraries** (haven't touched these in decades)
 - Tensorflow
 - Torch
 - Pandas
 - NumPy
 
 ### **Tools**
+- Claude Code (HEHEHE)
 - Visual Studio 2022
 - Code Blocks
 - VS Code
 
-## 🌱 Learning & Development
-- Currently diving deep into chess programming
-- Always seeking new challenges to expand my skill set
+## 🌱 Learning & Development (idk why this section even exists lol)
+- I swear I'm trying my best for Olevels
+- Fav science ofc physics!!
+- AI lowk ruined my interest in learning web design forever
 
 ## ⭐ Fun Facts
 ### **Hobbies**: 
 - Programming
 - Chess
-- Math
-- Photography 
+- Photography
+- Astronomy
 
 ### **General facts**
-- 67% of programming jobs aren’t in the technology industry.
+- 67% of programming jobs aren’t in the technology industry. (for the record: I wrote this like eons ago b4 the "67" thing so plss don't slime me)
 - The first computer virus was created by a 15-year-old in 1982.
