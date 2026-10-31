@@ -8,6 +8,8 @@ I'm a software developer developing nothing much other than insanity! And a few 
 ## 💼 Currently
 - Either working as a ```student``` at ```BPGHS```
 - hibernating
+- hibernating
+- hibernating
 - or playing chess
 
 ## 🔧 Technologies & Tools
